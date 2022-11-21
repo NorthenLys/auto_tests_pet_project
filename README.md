@@ -1,1 +1,3 @@
-# auto_tests_pet_project
+﻿# auto_tests_pet_project
+
+It is important project.
